@@ -7,9 +7,9 @@
 
 ###### <div align="center">good good study, day day up.</div>
 
+<img align="right" alt="Coding" width="300" src="Doraemon.gif">
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=xwj1024&count_private=true&theme=dark&show_icons=true" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwj1024&theme=dark&show_icons=true" height="165" />
 </p>
-
-<img align="right" alt="Coding" width="300" src="Doraemon.gif">
