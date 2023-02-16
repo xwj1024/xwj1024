@@ -1,9 +1,10 @@
 ### <div align="center">Hi 👋, I'm <a href="https://xwj1024.github.io">Ajin</a></div>
 
-  <p align="center">
+<p align="center">
     <img src="https://img.shields.io/github/stars/xwj1024"/>
     <img src="https://img.shields.io/github/followers/xwj1024"/>
-  </p>
+</p>
+
 ###### <div align="center">真正的大师永远都怀着一颗学徒的心</div>
 
 <p align="center">
