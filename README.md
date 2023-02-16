@@ -14,10 +14,12 @@
 
 <hr>
 
-<div align="left">
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
-</div>
-<div align="right">
-  <img align="right" alt="Coding" width="300" src="assets/img/Doraemon.gif">
-</div>
+<img align="right" width="300" src="assets/img/Doraemon.gif">
+
+##### 个人简介
+
+- <img src="https://img.shields.io/badge/Java-☕️-green"> <img src="https://img.shields.io/badge/MySQL-🐬-lightgrey"> <img src="https://img.shields.io/badge/Linux-🐧-blue">
+- <img src="https://img.shields.io/badge/吉他-🎸-inactive"> <img src="https://img.shields.io/badge/篮球-🏀-blue"> <img src="https://img.shields.io/badge/乒乓球-🏓️-success">
+
+> 书山有路勤为径 学海无涯苦作舟
 
