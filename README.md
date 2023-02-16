@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/followers/xwj1024"/>
 </p>
 
-###### <div align="center">真正的大师永远都怀着一颗学徒的心</div>
+###### <div align="center">good good study, day day up.</div>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=xwj1024&count_private=true&theme=dark&show_icons=true" height="165" />
