@@ -12,4 +12,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwj1024&theme=dark&show_icons=true" height="165" />
 </p>
 
-[![MasterHead](Doraemon.gif)](https://github.com/xwj1024)
+<img align="right" alt="Coding" width="400" src="Doraemon.gif">
