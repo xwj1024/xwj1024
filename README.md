@@ -1,4 +1,4 @@
-### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋,+I'm+Ajin" alt="Ajin" /></a></div>
+### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hi+👋,+I'm+Ajin" alt="Ajin"/></a></div>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/xwj1024"/>
@@ -27,11 +27,4 @@
 
   <img src="https://img.shields.io/badge/Guitar-🎸-fbbd18"> <img src="https://img.shields.io/badge/Basketball-🏀-fbbd18"> <img src="https://img.shields.io/badge/TableTennis-🏓️-fbbd18">
 
-> 
-
-![xwj1024](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&align=center&lines=Ajin;aaa)
-
-
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=书山有路勤为径 学海无涯苦作舟)](https://git.io/typing-svg)
-
+>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=书山有路勤为径 学海无涯苦作舟)](https://git.io/typing-svg)
