@@ -29,3 +29,4 @@
 
 >  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=书山有路勤为径 学海无涯苦作舟)](https://git.io/typing-svg)
 
+![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&align=right&lines=Ajin;aaa)
