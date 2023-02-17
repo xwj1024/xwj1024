@@ -1,9 +1,11 @@
-### <div align="center">Hi 👋, I'm <a href="https://xwj1024.github.io">Ajin</a></div>
+### <div align="center">![xwj1024](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi 👋, I'm Ajin)</div>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/xwj1024"/>
     <img src="https://img.shields.io/github/followers/xwj1024"/>
+    <img src="https://komarev.com/ghpvc/?username=xwj1024">
 </p>
+
 
 ###### <div align="center">good good study, day day up.</div>
 
@@ -13,18 +15,16 @@
 </p>
 
 <hr>
-
 <img align="right" width="300" src="assets/img/Doraemon.gif">
 
-#### 个人简介
+#### Personal Profile
 
-- ##### 技术栈
+- ##### Skills
 
   <img src="https://img.shields.io/badge/Java-☕️-green"> <img src="https://img.shields.io/badge/MySQL-🐬-green"> <img src="https://img.shields.io/badge/Linux-🐧-green"> 
 
-- ##### 兴趣爱好
+- ##### Hobbies
 
-  <img src="https://img.shields.io/badge/吉他-🎸-lightgrey"> <img src="https://img.shields.io/badge/篮球-🏀-lightgrey"> <img src="https://img.shields.io/badge/乒乓球-🏓️-lightgrey">
+  <img src="https://img.shields.io/badge/Guitar-🎸-fbbd18"> <img src="https://img.shields.io/badge/Basketball-🏀-fbbd18"> <img src="https://img.shields.io/badge/TableTennis-🏓️-fbbd18">
 
 > 书山有路勤为径 学海无涯苦作舟
-
