@@ -15,7 +15,7 @@
 </p>
 
 <hr>
-<img align="right" width="200" src="assets/img/Doraemon.gif">
+<img align="right" width="350" src="assets/img/Doraemon.gif">
 
 #### Personal Profile
 
