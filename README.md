@@ -27,4 +27,4 @@
 
   <img src="https://img.shields.io/badge/Guitar-🎸-fbbd18"> <img src="https://img.shields.io/badge/Basketball-🏀-fbbd18"> <img src="https://img.shields.io/badge/TableTennis-🏓️-fbbd18">
 
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=A4AE92&width=435&lines=%E4%B9%A6%E5%B1%B1%E6%9C%89%E8%B7%AF%E5%8B%A4%E4%B8%BA%E5%BE%84+%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF%E8%8B%A6%E4%BD%9C%E8%88%9F;%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%A7%E5%B8%88%E6%B0%B8%E8%BF%9C%E9%83%BD%E6%80%80%E7%9D%80%E4%B8%80%E9%A2%97%E5%AD%A6%E5%BE%92%E7%9A%84%E5%BF%83)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Xingkai+SC&weight=200&size=15&pause=1000&color=BBBBBB&width=435&lines=%E4%B9%A6%E5%B1%B1%E6%9C%89%E8%B7%AF%E5%8B%A4%E4%B8%BA%E5%BE%84+%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF%E8%8B%A6%E4%BD%9C%E8%88%9F;%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%A7%E5%B8%88%E6%B0%B8%E8%BF%9C%E9%83%BD%E6%80%80%E7%9D%80%E4%B8%80%E9%A2%97%E5%AD%A6%E5%BE%92%E7%9A%84%E5%BF%83)](https://git.io/typing-svg)
