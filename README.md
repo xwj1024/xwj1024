@@ -1,4 +1,4 @@
-### <div align="center">![xwj1024](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi 👋, I'm Ajin)</div>
+### <div align="center">![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi 👋, I'm Ajin)</div>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/xwj1024"/>
@@ -27,5 +27,5 @@
 
   <img src="https://img.shields.io/badge/Guitar-🎸-fbbd18"> <img src="https://img.shields.io/badge/Basketball-🏀-fbbd18"> <img src="https://img.shields.io/badge/TableTennis-🏓️-fbbd18">
 
-> 书山有路勤为径 学海无涯苦作舟 ![xwj1024](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&weight=200&lines=书山有路勤为径 学海无涯苦作舟)
+> 书山有路勤为径 学海无涯苦作舟 ![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&weight=200&lines=书山有路勤为径 学海无涯苦作舟;)
 
