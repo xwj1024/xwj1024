@@ -10,7 +10,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwj1024&theme=dark&show_icons=true" height="165" />
 </p>
 <hr>
-<img align="right" width="350" src="assets/img/Doraemon.gif">
+<img align="right" width="300" src="assets/img/Doraemon.gif">
+
 
 
 ### Personal Profile
@@ -24,5 +25,5 @@
 
   <img src="https://img.shields.io/badge/Guitar-🎸-fbbd18"> <img src="https://img.shields.io/badge/Basketball-🏀-fbbd18"> <img src="https://img.shields.io/badge/TableTennis-🏓️-fbbd18">
 
-> [![Ajin](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=15&repeat=false&pause=1000&color=BBBBBB&center=false&vCenter=false&width=400&lines=good+good+study%2C+day+day+up.)](https://xwj1024.github.io)
+> good good study, day day up.
 
