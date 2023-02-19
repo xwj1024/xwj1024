@@ -14,14 +14,14 @@
 
 
 
-### Personal Profile
+#### Personal Profile
 
 
-- #### Skills
+- ##### Skills
 
   <img src="https://img.shields.io/badge/Java-☕️-green"> <img src="https://img.shields.io/badge/MySQL-🐬-green"> <img src="https://img.shields.io/badge/Linux-🐧-green"> 
 
-- #### Hobbies
+- ##### Hobbies
 
   <img src="https://img.shields.io/badge/Guitar-🎸-fbbd18"> <img src="https://img.shields.io/badge/Basketball-🏀-fbbd18"> <img src="https://img.shields.io/badge/TableTennis-🏓️-fbbd18">
 
