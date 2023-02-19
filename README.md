@@ -5,8 +5,6 @@
     <img src="https://img.shields.io/github/followers/xwj1024"/>
     <img src="https://komarev.com/ghpvc/?username=xwj1024">
 </p>
-
-
 ###### <div align="center">good good study, day day up.</div>
 
 <p align="center">
