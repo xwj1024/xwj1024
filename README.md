@@ -25,5 +25,5 @@
 
   <img src="https://img.shields.io/badge/Guitar-🎸-fbbd18"> <img src="https://img.shields.io/badge/Basketball-🏀-fbbd18"> <img src="https://img.shields.io/badge/TableTennis-🏓️-fbbd18">
 
-> [![Ajin](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=18&pause=1000&color=BBBBBB&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&width=400&lines=good+good+study%2C+day+day+up.)](https://xwj1024.github.io)
+> [![Ajin](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=18&repeat=false&pause=1000&color=BBBBBB&center=false&vCenter=false&width=400&lines=good+good+study%2C+day+day+up.)](https://xwj1024.github.io)
 
