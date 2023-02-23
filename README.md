@@ -3,11 +3,11 @@
 <p align="center">
     <img src="https://img.shields.io/github/stars/xwj1024"/>
     <img src="https://img.shields.io/github/followers/xwj1024"/>
-    <img src="https://komarev.com/ghpvc/?username=xwj1024">
+    <img src="https://komarev.com/ghpvc/?username=xwj1024"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xwj1024&count_private=true&theme=dark&show_icons=true" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwj1024&theme=dark&show_icons=true" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xwj1024&count_private=true&theme=dark&show_icons=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwj1024&theme=dark&show_icons=true" height="165"/>
 </p>
 <hr>
 <img align="right" width="300" src="assets/img/Doraemon.gif"/>
