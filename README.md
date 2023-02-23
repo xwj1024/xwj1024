@@ -19,11 +19,11 @@
 
 - ##### Skills
 
-  ![Linux](https://img.shields.io/badge/-Linux-%23ECD83E?style=flat&logo=linux&logoColor=000000) ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-%230066B8?style=flat&logo=mysql&logoColor=ffffff) ![Redis](https://img.shields.io/badge/-Redis-%23E34C26?style=flat&logo=redis&logoColor=ffffff)
+  ![Linux](https://img.shields.io/badge/-Linux-%23f6bf04?style=flat&logo=linux&logoColor=000000) ![Git](https://img.shields.io/badge/-Git-%23f1f1e9?style=flat&logo=git&logoColor=%ffffffff) ![MySQL](https://img.shields.io/badge/-MySQL-%23027396?style=flat&logo=mysql&logoColor=ffffff) ![Redis](https://img.shields.io/badge/-Redis-%23cc281f?style=flat&logo=redis&logoColor=ffffff)
 
 - ##### Tools
 
-  ![DataGrip](https://img.shields.io/badge/-DataGrip-%23197CBE?style=flat&logo=datagrip&logoColor=000000) ![IDEA](https://img.shields.io/badge/-IDEA-%23E34C26?style=flat&logo=Intellij-idea&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff)
+  ![DataGrip](https://img.shields.io/badge/-DataGrip-%2335bba4?style=flat&logo=datagrip&logoColor=000000) ![IDEA](https://img.shields.io/badge/-IDEA-%23fe2c52?style=flat&logo=Intellij-idea&logoColor=000000) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff)
 
 > ###### good good study, day day up.
 
