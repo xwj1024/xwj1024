@@ -23,7 +23,7 @@
 
 - ##### Tools
 
-  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-%23000000?style=flat&logo=jetbrains&logoColor=ffffff) ![DataGrip](https://img.shields.io/badge/-DataGrip-%2335bba4?style=flat&logo=datagrip&logoColor=000000) ![IDEA](https://img.shields.io/badge/-IDEA-%23fe2c52?style=flat&logo=Intellij-idea&logoColor=000000) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff) ![Terminal](https://img.shields.io/badge/-Terminal-%23000000?style=flat&logo=iterm2&logoColor=07e916)
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-%23000000?style=flat&logo=jetbrains&logoColor=ffffff) ![DataGrip](https://img.shields.io/badge/-DataGrip-%2335bba4?style=flat&logo=datagrip&logoColor=000000) ![IDEA](https://img.shields.io/badge/-IDEA-%23fe2c52?style=flat&logo=Intellij-idea&logoColor=000000) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff) ![Terminal](https://img.shields.io/badge/-Terminal-%23000000?style=flat&logo=iterm2&logoColor=07e916)
 
 > ###### good good study, day day up.
 
