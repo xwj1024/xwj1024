@@ -19,7 +19,7 @@
 
 - ##### Skills
 
-  ![IDEA](https://img.shields.io/badge/-IDEA-%23E34C26?style=flat&logo=Intellij-idea&logoColor=ffffff)![DataGrip](https://img.shields.io/badge/-DataGrip-%23197CBE?style=flat&logo=datagrip&logoColor=000000&labelColor=%33E34C26&color=%33E34C26)![Linux](https://img.shields.io/badge/-Linux-%23ECD83E?style=flat&logo=linux&logoColor=000000&labelColor=%ffffff&color=%23ECD83E)![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)![MySQL](https://img.shields.io/badge/-MySQL-%230066B8?style=flat&logo=mysql&logoColor=ffffff)![Redis](https://img.shields.io/badge/-Redis-%23E34C26?style=flat&logo=redis&logoColor=ffffff)
+  ![IDEA](https://img.shields.io/badge/-IDEA-%23E34C26?style=flat&logo=Intellij-idea&logoColor=ffffff) ![DataGrip](https://img.shields.io/badge/-DataGrip-%23197CBE?style=flat&logo=datagrip&logoColor=000000&labelColor=%33E34C26&color=%33E34C26) ![Linux](https://img.shields.io/badge/-Linux-%23ECD83E?style=flat&logo=linux&logoColor=000000&labelColor=%ffffff&color=%23ECD83E) ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-%230066B8?style=flat&logo=mysql&logoColor=ffffff) ![Redis](https://img.shields.io/badge/-Redis-%23E34C26?style=flat&logo=redis&logoColor=ffffff)
 
 - ##### Hobbies
 
