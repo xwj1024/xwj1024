@@ -19,11 +19,11 @@
 
 - ##### Skills
 
-  ![Linux](https://img.shields.io/badge/-Linux-%23f6bf04?style=flat&logo=linux&logoColor=000000) ![Git](https://img.shields.io/badge/-Git-%23f1f1e9?style=flat&logo=git&logoColor=%ffffffff) ![MySQL](https://img.shields.io/badge/-MySQL-%23027396?style=flat&logo=mysql&logoColor=ffffff) ![Redis](https://img.shields.io/badge/-Redis-%23cc281f?style=flat&logo=redis&logoColor=ffffff)
+  ![Linux](https://img.shields.io/badge/-Linux-%23f6bf04?style=flat&logo=linux&logoColor=%23000000) ![Git](https://img.shields.io/badge/-Git-%23f1f1e9?style=flat&logo=git) ![MySQL](https://img.shields.io/badge/-MySQL-%23027396?style=flat&logo=mysql&logoColor=%23ffffff) ![Redis](https://img.shields.io/badge/-Redis-%23cc281f?style=flat&logo=redis&logoColor=%23ffffff) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-%2303bfb4?style=flat&logo=elasticsearch&logoColor=%23fec513&labelColor=%231ca9f5)
 
 - ##### Tools
 
-  ![JetBrains](https://img.shields.io/badge/-JetBrains-%23000000?style=flat&logo=jetbrains&logoColor=ffffff) ![DataGrip](https://img.shields.io/badge/-DataGrip-%2335bba4?style=flat&logo=datagrip&logoColor=000000) ![IDEA](https://img.shields.io/badge/-IDEA-%23fe2c52?style=flat&logo=Intellij-idea&logoColor=000000) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff) ![Terminal](https://img.shields.io/badge/-Terminal-%23000000?style=flat&logo=iterm2&logoColor=07e916)
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-%23000000?style=flat&logo=jetbrains&logoColor=%23ffffff) ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code) ![Terminal](https://img.shields.io/badge/-Terminal-%23000000?style=flat&logo=iterm2&logoColor=07e916) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff)
 
 > ###### good good study, day day up.
 
