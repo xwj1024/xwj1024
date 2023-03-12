@@ -25,5 +25,5 @@
 
   ![JetBrains](https://img.shields.io/badge/-JetBrains-%23000000?style=flat&logo=jetbrains&logoColor=%23ffffff) ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code) ![Terminal](https://img.shields.io/badge/-Terminal-%23000000?style=flat&logo=iterm2&logoColor=07e916) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff)
 
-> ###### good good study, day day up.
+> ###### man proposes, god disposes.
 
