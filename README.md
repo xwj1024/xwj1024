@@ -6,11 +6,12 @@
     <img src="https://komarev.com/ghpvc/?username=xwj1024"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xwj1024&count_private=true&theme=dark&show_icons=true" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwj1024&theme=dark&show_icons=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=xwj1024&count_private=true&theme=onedark&show_icons=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwj1024&theme=onedark&show_icons=true" height="165"/>
 </p>
 <hr>
 <img align="right" width="300" src="assets/img/Doraemon.gif"/>
+
 
 
 
@@ -23,7 +24,7 @@
 
 - ##### Tools
 
-  ![JetBrains](https://img.shields.io/badge/-JetBrains-%23000000?style=flat&logo=jetbrains&logoColor=%23ffffff) ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code) ![Terminal](https://img.shields.io/badge/-Terminal-%23000000?style=flat&logo=iterm2&logoColor=07e916) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff)
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-%23000000?style=flat&logo=jetbrains&logoColor=%23ffffff) ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code) ![Terminal](https://img.shields.io/badge/-Terminal-%23000000?style=flat&logo=iterm2&logoColor=07e916) ![Markdown](https://img.shields.io/badge/-Markdown-%230066B8?style=flat&logo=markdown&logoColor=ffffff) ![Postman](https://img.shields.io/badge/-Postman-%23ff6c37?style=flat&logo=postman&logoColor=ffffff)
 
 > ###### man proposes, god disposes.
 
